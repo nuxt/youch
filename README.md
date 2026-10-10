@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. This fork of [youch](https://github.com/poppinss/youch) was designed for Nuxt 2, which reached end of life on June 30, 2024.
+
 # Youch!
 > Pretty error reporting for Node.js 🚀 (Modified for Nuxt.js & SSR Bundles)
 
